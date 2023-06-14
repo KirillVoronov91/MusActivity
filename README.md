@@ -32,7 +32,7 @@
 </p>
 
 ### Как реализована база данных? 
-<p><img src="pics/8.png" width="300" height="360" align="left" /</p>
+<p><img src="pics/8.png" width="300" height="370" align="left" /</p>
 <br>
 <p> В базе 9 таблиц: <br>
 1. Таблица с информацией по чатам <br>
