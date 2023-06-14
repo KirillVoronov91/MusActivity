@@ -14,3 +14,8 @@
 4. Выкладываем на ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) для размещения на контейнерном хостинге - самом простом варианте автономной работы бота.
 
 ### Как это выглядит?
+<p float="left">
+  <img src="/img1.png" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
